@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1077255426569",
+    "project_id": "digisplit-2c794",
+    "storage_bucket": "digisplit-2c794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077255426569:android:245393ea0ff0a121eaded8",
+        "android_client_info": {
+          "package_name": "com.example.digi_split"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077255426569-h74f8l362q00qb92fs5tda8pvlhqjds4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digi_split",
+            "certificate_hash": "fb7300a09b3329307af321051a45954ae6c76c9f"
+          }
+        },
+        {
+          "client_id": "1077255426569-me94f3ie42o6m1kret91mj5rgjc24ht4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJuoms9sMMtv7K9OATyLgoNFGRX7E6zYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077255426569-me94f3ie42o6m1kret91mj5rgjc24ht4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
